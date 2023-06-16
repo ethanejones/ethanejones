@@ -2,7 +2,7 @@
     <img src="assets/ethan-jones-banner.gif">
 </p>
 
-Hello! My name is Ethan Jones. I live in [Lafayette, Louisiana](https://www.google.com/maps/place/Lafayette,+LA/@30.2167906,-92.0450818,12z/data=!4m5!3m4!1s0x86249c4364c5d89b:0xc94a752492f7ff13!8m2!3d30.2240897!4d-92.0198427) 🐊. I am a Senior DevOps Engineer at [Liatrio](https://www.liatrio.com/). Outside of work I enjoy spending time outdoors walking, running, biking, hunting, fishing, and camping. Formula 1 🏎 is the sport I follow most but I like watching many others too - I love competetion, with a preference for actively participating in it.
+Hello! My name is Ethan Jones. I live in [Lafayette, Louisiana](https://www.google.com/maps/place/Lafayette,+LA/@30.2167906,-92.0450818,12z/data=!4m5!3m4!1s0x86249c4364c5d89b:0xc94a752492f7ff13!8m2!3d30.2240897!4d-92.0198427) 🐊. I am a Senior DevOps Engineer at [Liatrio](https://www.liatrio.com/). Outside of work I enjoy spending time outdoors walking, running, biking, hunting, fishing, and camping. Formula 1 🏎 is the sport I follow most but I like watching many others too - I love competition, with a preference for actively participating in it.
 
 ## Personal links
 
