@@ -7,7 +7,6 @@ Hello! My name is Ethan Jones. I live in [Lafayette, Louisiana](https://www.goog
 ## Personal links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-e-jones/)
-[![Polywork](https://img.shields.io/badge/polywork-543DE0?logo=polywork&logoColor=white)](https://www.polywork.com/ethan_jones)
 [![Strava](assets/badge-strava.svg)](https://www.strava.com/athletes/105014741)
 
 ##  Latest content contributions
